@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/saurav1207/">Linkedin</a>
 <!-- Stats of my activity on Github -->
 #
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravjecrc&show_icons=true&theme=tokyonight)
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurav1207&show_icons=true&theme=radical)
 
 
